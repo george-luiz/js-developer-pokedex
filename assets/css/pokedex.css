@@ -6,6 +6,10 @@
     list-style: none;
 }
 
+.botao {
+    text-decoration: none;
+}
+
 .normal {
     background-color: #a6a877;
 }
